@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Tecnologia com tranquilidade</title>
+  <desc id="description">Ilustração acolhedora de uma senhora sorrindo enquanto usa o celular, com plantas e elementos coloridos ao redor.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8F4E9"/>
+      <stop offset="1" stop-color="#FFF1DE"/>
+    </linearGradient>
+    <linearGradient id="sweater" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F08C72"/>
+      <stop offset="1" stop-color="#DF6F66"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="32" fill="url(#background)"/>
+  <circle cx="1010" cy="94" r="52" fill="#FFD47D"/>
+  <path d="M926 322c18-85 86-135 171-128 67 5 113 55 123 128v46H911z" fill="#D6E8D8"/>
+  <path d="M0 340c95-47 183-31 272 4 95 37 178 32 273-3v59H0z" fill="#CDE3D1"/>
+
+  <g fill="none" stroke="#4F8970" stroke-linecap="round" stroke-width="8">
+    <path d="M105 323V218m0 65c-31-9-44-31-43-54 25 3 42 17 47 39m-3 5c28-12 39-34 34-56-24 6-39 22-41 45"/>
+    <path d="M178 329V254m0 41c-23-8-32-24-30-42 19 3 31 16 32 32m-1 0c22-9 30-25 26-43-17 5-28 17-29 34"/>
+  </g>
+  <path d="M70 340h143" stroke="#9D7358" stroke-linecap="round" stroke-width="12"/>
+
+  <g>
+    <path d="M694 327c14-67 57-107 117-107 62 0 107 41 119 107v43H684z" fill="#6B9B7C"/>
+    <path d="M765 199h94v68c0 25-20 45-47 45s-47-20-47-45z" fill="#E8B99B"/>
+    <path d="M752 206c-21-19-24-57-10-83 13-27 42-43 76-40 37 3 61 28 62 62 1 21-7 42-20 58l-9-49c-23 4-48 1-68-8-2 23-11 45-31 60z" fill="#F4F0E7"/>
+    <path d="M760 155c-1-26 20-49 51-51 26-2 48 11 57 34-23 6-50 7-76-3-7 9-17 16-32 20z" fill="#FFF9ED"/>
+    <path d="M777 180h2m48 0h2" stroke="#6B5148" stroke-linecap="round" stroke-width="7"/>
+    <path d="M794 202c8 7 18 7 27 0" fill="none" stroke="#B76559" stroke-linecap="round" stroke-width="5"/>
+    <path d="M792 257l19 35 21-35" fill="#FFF4E4"/>
+    <path d="M715 326c24-30 47-42 74-42h37c31 0 59 17 79 42v37H715z" fill="url(#sweater)"/>
+    <path d="M784 294l27 34 29-34" fill="none" stroke="#F8C7A7" stroke-linejoin="round" stroke-width="7"/>
+    <path d="M784 321l27 30 28-30" fill="#E9B99A"/>
+    <path d="M752 332l50 18" stroke="#C95E58" stroke-linecap="round" stroke-width="9"/>
+    <rect x="791" y="286" width="47" height="76" rx="9" transform="rotate(-12 791 286)" fill="#315F5B"/>
+    <rect x="797" y="293" width="35" height="59" rx="5" transform="rotate(-12 797 293)" fill="#E6F5E9"/>
+    <circle cx="814" cy="346" r="2.5" fill="#6D9B7A"/>
+  </g>
+
+  <g transform="translate(978 195)">
+    <circle cx="47" cy="47" r="47" fill="#FFFDF7"/>
+    <path d="M47 18l24 9v19c0 17-10 29-24 37-14-8-24-20-24-37V27z" fill="#77AA85"/>
+    <path d="M36 47l8 8 16-18" fill="none" stroke="#FFFDF7" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  </g>
+
+  <g fill="#E99A72">
+    <path d="M563 79l7 16 17 2-13 11 4 17-15-9-15 9 4-17-13-11 17-2z"/>
+    <circle cx="656" cy="126" r="7"/>
+    <circle cx="940" cy="154" r="6"/>
+  </g>
+  <g fill="none" stroke="#E99A72" stroke-linecap="round" stroke-width="5">
+    <path d="M632 73v21m-10-10h21"/>
+    <path d="M1080 277v17m-8-8h17"/>
+  </g>
+</svg>
