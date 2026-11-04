@@ -1,0 +1,92 @@
+{
+  "golpes": [
+    {
+      "id": 1,
+      "nome": "Falso funcionário de banco",
+      "categoria": "Telefone",
+      "como_acontece": "A pessoa liga dizendo ser do banco, informa uma suposta movimentação suspeita e pede senha, código do cartão ou transferência para 'proteger' a conta.",
+      "sinais_alerta": [
+        "Pedido de senha por telefone",
+        "Urgência e ameaça de perda de dinheiro",
+        "Número desconhecido ou com ruído"
+      ],
+      "o_que_fazer": [
+        "Desligar a ligação",
+        "Ligar para o número oficial do banco (no verso do cartão)",
+        "Conferir a conta pelo aplicativo oficial"
+      ],
+      "o_que_nao_fazer": [
+        "Não informar senha ou código de verificação",
+        "Não fazer transferência por orientação de quem ligou"
+      ],
+      "onde_denunciar": "Banco, Polícia Civil, PROCON",
+      "fonte": "Cartilha de segurança da Febraban (verificar edição e data)"
+    },
+    {
+      "id": 2,
+      "nome": "Falso parente pedindo dinheiro",
+      "categoria": "WhatsApp",
+      "como_acontece": "A pessoa recebe mensagem de número desconhecido com foto de um parente, pedindo um PIX urgente porque o celular quebrou ou houve um problema.",
+      "sinais_alerta": [
+        "Número diferente do habitual",
+        "Pedido de dinheiro com urgência",
+        "História de emergência"
+      ],
+      "o_que_fazer": [
+        "Ligar para o número antigo do parente",
+        "Confirmar por outro canal (ligação, outro familiar)",
+        "Não responder a mensagem"
+      ],
+      "o_que_nao_fazer": [
+        "Não fazer PIX antes de confirmar",
+        "Não enviar foto ou documento"
+      ],
+      "onde_denunciar": "Polícia Civil, banco",
+      "fonte": "Cartilha de segurança digital (verificar fonte e data)"
+    },
+    {
+      "id": 3,
+      "nome": "Falso INSS ou falso benefício",
+      "categoria": "SMS ou WhatsApp",
+      "como_acontece": "A pessoa recebe mensagem sobre um benefício a receber, com link para 'atualizar dados' ou 'liberar valor'.",
+      "sinais_alerta": [
+        "Link desconhecido",
+        "Promessa de valor a receber",
+        "Pedido de dados pessoais ou bancários"
+      ],
+      "o_que_fazer": [
+        "Não clicar no link",
+        "Acessar o site ou aplicativo oficial do INSS",
+        "Procurar uma agência ou canal oficial"
+      ],
+      "o_que_nao_fazer": [
+        "Não informar CPF, senha ou dados bancários por mensagem",
+        "Não baixar aplicativos indicados por mensagem"
+      ],
+      "onde_denunciar": "INSS, Polícia Civil",
+      "fonte": "Orientações do Governo Federal sobre golpes do INSS (verificar fonte e data)"
+    },
+    {
+      "id": 4,
+      "nome": "Falso motoboy ou troca de cartão",
+      "categoria": "Presencial",
+      "como_acontece": "Alguém liga dizendo ser do banco e avisa que um motoboy vai buscar o cartão para 'cancelamento'. Ou o cartão é trocado no momento de um pagamento.",
+      "sinais_alerta": [
+        "Pedido para entregar o cartão a alguém",
+        "Ligação avisando de suposta clonagem",
+        "Pressa para resolver"
+      ],
+      "o_que_fazer": [
+        "Não entregar o cartão a ninguém",
+        "Ligar para o número oficial do banco",
+        "Registrar boletim de ocorrência se o cartão for levado"
+      ],
+      "o_que_nao_fazer": [
+        "Não entregar o cartão a terceiros",
+        "Não digitar senha na frente de desconhecidos"
+      ],
+      "onde_denunciar": "Banco, Polícia Civil",
+      "fonte": "Cartilha de segurança da Febraban (verificar edição e data)"
+    }
+  ]
+}

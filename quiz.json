@@ -1,0 +1,124 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "situacao": "Você recebe uma ligação de alguém dizendo ser do seu banco, informando que seu cartão foi clonado e pedindo sua senha para bloqueio. O que você faz?",
+      "opcoes": [
+        "Informo a senha para bloquear o cartão",
+        "Desligo e ligo para o número oficial do banco",
+        "Passo o código do cartão, mas não a senha"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Muito bem. O banco nunca pede senha por telefone. Sempre ligue para o número oficial.",
+      "feedback_erro": "Cuidado. Nenhum banco pede senha por telefone. Desligue e procure o canal oficial."
+    },
+    {
+      "id": 2,
+      "situacao": "Você recebe uma mensagem no WhatsApp de um número desconhecido, com a foto do seu filho, pedindo um PIX urgente porque o celular quebrou. O que você faz?",
+      "opcoes": [
+        "Faço o PIX imediatamente, porque é meu filho",
+        "Respondo pedindo mais detalhes",
+        "Ligo para o número antigo do meu filho para confirmar"
+      ],
+      "correta": 2,
+      "feedback_acerto": "Correto. Confirmar por outro canal é a atitude mais segura.",
+      "feedback_erro": "Cuidado. Golpistas usam fotos de familiares. Sempre confirme por ligação antes de transferir."
+    },
+    {
+      "id": 3,
+      "situacao": "Você recebe um SMS dizendo que tem um benefício do INSS para receber e um link para 'atualizar seus dados'. O que você faz?",
+      "opcoes": [
+        "Clico no link e preencho os dados",
+        "Não clico e procuro o site ou aplicativo oficial do INSS",
+        "Encaminho para um familiar preencher"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Muito bem. Nunca clique em links de mensagens sobre benefícios. Procure sempre o canal oficial.",
+      "feedback_erro": "Cuidado. Links em mensagens podem levar a sites falsos. Procure o INSS pelos canais oficiais."
+    },
+    {
+      "id": 4,
+      "situacao": "Uma pessoa liga dizendo que você ganhou um prêmio de R$ 5.000,00 de uma promoção, mas precisa pagar uma 'taxa de liberação' de R$ 50,00. O que você faz?",
+      "opcoes": [
+        "Pago a taxa para receber o prêmio logo",
+        "Ignoro, pois prêmios reais não exigem pagamento para serem liberados",
+        "Peço para descontar a taxa do valor do prêmio"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Exato! Prêmios reais não cobram taxas para serem entregues. Isso é sempre golpe.",
+      "feedback_erro": "Atenção: Se pedirem dinheiro para liberar um prêmio, é golpe. Nunca pague para receber um prêmio."
+    },
+    {
+      "id": 5,
+      "situacao": "Alguém liga dizendo que é 'suporte técnico da Microsoft' e diz que seu computador está com vírus, pedindo para você instalar um programa de acesso remoto. O que você faz?",
+      "opcoes": [
+        "Instalo o programa para ele limpar meu computador",
+        "Desligo a ligação, pois empresas de tecnologia não ligam para oferecer suporte não solicitado",
+        "Passo minha senha para ele resolver o problema"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Correto! Empresas como Microsoft ou Google não ligam para avisar sobre vírus no seu PC.",
+      "feedback_erro": "Perigo: Nunca instale programas de acesso remoto a pedido de estranhos. Eles podem roubar todos os seus dados."
+    },
+    {
+      "id": 6,
+      "situacao": "No caixa eletrônico, uma pessoa muito gentil oferece ajuda para usar a máquina e pede para você digitar a senha enquanto ela 'ajuda a olhar'. O que você faz?",
+      "opcoes": [
+        "Aceito a ajuda, pois a máquina parece difícil",
+        "Agradeço e recuso, procurando ajuda apenas com funcionários identificados do banco",
+        "Deixo ela digitar a senha para mim"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Perfeito. No banco, aceite ajuda apenas de funcionários com crachá e dentro da agência.",
+      "feedback_erro": "Cuidado: Golpistas se oferecem para ajudar e trocam seu cartão ou memorizam sua senha. Recuse ajuda de estranhos."
+    },
+    {
+      "id": 7,
+      "situacao": "Você vê um anúncio de uma TV de última geração por apenas R$ 200,00 em um site desconhecido. O preço normal é R$ 3.000,00. O que você faz?",
+      "opcoes": [
+        "Compro rápido antes que acabe",
+        "Desconfio, pois preços absurdamente baixos são iscas para sites falsos",
+        "Mando meus dados de cartão para garantir a reserva"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Isso mesmo! Se o preço é bom demais para ser verdade, provavelmente é golpe ou site falso.",
+      "feedback_erro": "Atenção: Preços muito abaixo do mercado são a principal forma de atrair vítimas para roubo de dados de cartão."
+    },
+    {
+      "id": 8,
+      "situacao": "Você recebe uma ligação dizendo que um parente foi sequestrado e ouve gritos ao fundo. A pessoa exige um resgate imediato. O que você faz?",
+      "opcoes": [
+        "Entro em pânico e sigo as ordens",
+        "Mantenho a calma, desligo e tento ligar imediatamente para o parente em questão",
+        "Vou correndo ao banco fazer o depósito"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Correto. Esse é o golpe do falso sequestro. Manter a calma e verificar a situação é essencial.",
+      "feedback_erro": "Cuidado: Golpistas usam o desespero. Tente sempre falar com o parente por outro telefone antes de qualquer ação."
+    },
+    {
+      "id": 9,
+      "situacao": "Um suposto funcionário do banco liga dizendo que enviará um 'motoboy' para buscar seu cartão que foi cancelado. O que você faz?",
+      "opcoes": [
+        "Entrego o cartão, pois ele disse que é do banco",
+        "Recuso e corto o cartão ao meio (destruindo o chip), pois bancos nunca mandam buscar cartões",
+        "Peço para o motoboy me mostrar o crachá do banco"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Exato! Bancos nunca enviam motoboys para retirar cartões na casa dos clientes.",
+      "feedback_erro": "Perigo: É o golpe do motoboy. Se entregar o cartão, eles farão compras em seu nome. O banco nunca busca cartões."
+    },
+    {
+      "id": 10,
+      "situacao": "Você recebe uma mensagem dizendo que sua conta do WhatsApp será bloqueada e pede para você digitar um código de 6 dígitos que chegará por SMS. O que você faz?",
+      "opcoes": [
+        "Digito o código na tela para não perder minha conta",
+        "Não informo o código para ninguém, pois ele serve para clonar meu WhatsApp",
+        "Peço para o meu neto digitar para mim"
+      ],
+      "correta": 1,
+      "feedback_acerto": "Perfeito! Esse código é a chave para roubarem sua conta. Nunca o compartilhe.",
+      "feedback_erro": "Atenção: Se você passar esse código, o golpista assume seu WhatsApp e começa a pedir dinheiro para seus amigos."
+    }
+  ]
+}
